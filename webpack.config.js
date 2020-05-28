@@ -18,7 +18,11 @@ module.exports = {
                 use: [
                     'style-loader',
                     'css-loader',
+<<<<<<< HEAD
                     'sass-loader',
+=======
+                    'sass-loader'
+>>>>>>> 3afbaf7bdca67d85340296ba5c0658ebf5b8d97c
                 ],
             },
         ],
